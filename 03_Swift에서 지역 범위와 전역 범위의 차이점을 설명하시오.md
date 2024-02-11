@@ -31,3 +31,7 @@ class Product {
 - `Product` 클래스의 범위는 전역으로, 코드 어디에서나 Product 인스턴스를 만들 수 있다. 
 - `Kind` 열거형의 범위는 해당 클래스인 `Product`로 제한된다. 클래스 외부가 아닌 내부에서만 `Kind`를 사용이 가능하다.
 
+<br>
+
+> 참고: [Scope and Context Explained in Swift
+](https://www.appypie.com/scope-context-swift-how-to)
