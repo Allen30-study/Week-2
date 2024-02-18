@@ -1,32 +1,3 @@
-## 옵셔널 정수(Int?)를 취하고 switch 문에서 옵셔널 패턴을 사용하여 nil인 경우와 nil이 아닌 경우를 모두 처리하는 함수를 작성하십시오.
-```swift
-let x: Int? = nil
-
-// 1. switch
-switch x {
-case let .some(value):
-    print("this has a value: \(value)")
-case .none:
-    print("this is nil")
-}
-
-// 2. if-let
-if let value = x {
-    print("this has a value: \(value)")
-} else {
-    print("this is nil")
-}
-
-// 3. ??
-let value = x ?? 0
-
-print("this has a value: \(value)")
-
-// 4. guard
-guard let value = x else {
-    print("this is nil")
-    return
-}
-
-print("this has a value: \(value)")
-```
+## 열거형에서 unknown 키워드의 목적을 설명하십시오
+- switch문에서 열거형의 모든 케이스를 다루지 않은 경우에 default 선언 시 앞에 어노테이션과 함께 붙여주어 개발자에게 경고로 알려주는 역할
+    - 컴파일 시점에 실수 가능성을 알림
