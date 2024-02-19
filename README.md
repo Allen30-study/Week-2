@@ -1,5 +1,6 @@
 # Week 2
 > **2024.02.15**: 2주차 스터디 개인 답변<br>
+> 함수(Function)<br>
 > 옵셔널(Optional)<br>
 > 컬렉션(Collection)<br>
 > 열거형(Enumeration)<br>
