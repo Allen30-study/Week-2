@@ -1,5 +1,8 @@
 # Week 2
-> **2024.02.15**: 2주차 스터디 개인 답변
+> **2024.02.15**: 2주차 스터디 개인 답변<br>
+> 옵셔널(Optional)<br>
+> 컬렉션(Collection)<br>
+> 열거형(Enumeration)<br>
 - [두 개의 정수를 입력으로 받아 그 합을 반환하는 함수를 작성하십시오](https://github.com/Allen30-study/Week-2/blob/main/01_%EB%91%90%20%EA%B0%9C%EC%9D%98%20%EC%A0%95%EC%88%98%EB%A5%BC%20%EC%9E%85%EB%A0%A5%EC%9C%BC%EB%A1%9C%20%EB%B0%9B%EC%95%84%20%EA%B7%B8%20%ED%95%A9%EC%9D%84%20%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EC%8B%AD%EC%8B%9C%EC%98%A4.md)
 - [주어진 숫자의 제곱을 반환하는 함수를 작성하십시오](https://github.com/Allen30-study/Week-2/blob/main/02_%EC%A3%BC%EC%96%B4%EC%A7%84%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EC%A0%9C%EA%B3%B1%EC%9D%84%20%EB%B0%98%ED%99%98%ED%95%98%EB%8A%94%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EC%8B%AD%EC%8B%9C%EC%98%A4.md)
 - [Swift에서 지역 범위와 전역 범위의 차이점을 설명하시오](https://github.com/Allen30-study/Week-2/blob/main/03_Swift%EC%97%90%EC%84%9C%20%EC%A7%80%EC%97%AD%20%EB%B2%94%EC%9C%84%EC%99%80%20%EC%A0%84%EC%97%AD%20%EB%B2%94%EC%9C%84%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.md)
